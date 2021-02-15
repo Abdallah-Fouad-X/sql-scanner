@@ -1,12 +1,6 @@
 # sql-scanner
 For Legal Testing Only 
 
-# Requirement libs
-
-```
-requests
-bs4
-```
 
 # Usage 
 python3 SQL-scanner.py {URL}
